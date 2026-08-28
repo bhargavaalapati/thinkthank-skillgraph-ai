@@ -40,7 +40,7 @@ Policy / Organizational Knowledge
 
 The platform combines Agentic RAG, structural vector embeddings, deterministic evaluation schemas, real-time analytics, and secure cloud infrastructure to create an end-to-end competency assessment workflow.
 
-🎯 Problem Statement
+### 🎯 Problem Statement
 
 Organizations and government departments often have detailed competency frameworks and policy mandates, but translating those documents into daily workforce actions and measurable competency outcomes is difficult.
 
@@ -54,21 +54,21 @@ Analytics
 
 SkillGraph AI connects these layers into a single workflow.
 
-The core question:
+### The core question:
 
 How can organizational policy be transformed into measurable workforce competency intelligence?
 
 SkillGraph AI addresses this by converting policy knowledge into structured assessment scenarios and mapping employee decisions back to competency dimensions.
 
-💡 Solution
+### 💡 Solution
 
 SkillGraph AI provides a complete intelligent competency workflow:
 
-1. 📚 Policy Intelligence
+### 1. 📚 Policy Intelligence
 
 Policy and organizational knowledge can be fragmented into meaningful semantic units.
 
-2. 🔎 Agentic RAG
+### 2. 🔎 Agentic RAG
 
 Relevant policy context is retrieved from the vector knowledge base and supplied to the AI reasoning pipeline.
 
